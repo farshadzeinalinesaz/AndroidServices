@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.1"
 
     defaultConfig {
-        applicationId "com.global_relay.aidl_serverkotlin"
+        applicationId "com.zeinalinesaz.farshad.aidl_serverkotlin"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1

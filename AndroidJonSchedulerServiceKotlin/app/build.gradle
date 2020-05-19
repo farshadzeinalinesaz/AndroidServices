@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.1"
 
     defaultConfig {
-        applicationId "com.global_relay.androidjonschedulerservicekotlin"
+        applicationId "com.zeinalinesaz.farshad.androidjonschedulerservicekotlin"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
